@@ -2,7 +2,7 @@
 #coding=utf-8
 #4ryan0 D3v1l 
 #FBCLONING COMMMAD MAKER 
-#YOUTUBE Aryano Trckis
+#YOUTUBE Aryano Tricks
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
